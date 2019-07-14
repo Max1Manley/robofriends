@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "babel": "^6.23.0",
+    "lodash": "^4.17.14",
     "npm": "^6.4.1",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
