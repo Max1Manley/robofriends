@@ -14,7 +14,7 @@
     "merge": "^1.2.1",
     "npm": "^6.4.1",
     "react": "^16.4.0",
-    "react-dev-utils": "^9.0.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.8.6",
     "react-redux": "^5.0.7",
     "react-scripts": "1.1.4",
